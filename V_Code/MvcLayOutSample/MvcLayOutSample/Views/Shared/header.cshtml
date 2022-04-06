@@ -1,0 +1,82 @@
+﻿
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout Sample</title>
+    <style>
+        nav, footer {
+            display: flex;
+            width: 80%;
+            justify-content: space-between;
+            margin: 0 auto;
+            height: auto;
+            border: 2px solid;
+            background-color: black;
+            color: white;
+        }
+
+        footer {
+            justify-content: center;
+        }
+
+        .menuBox ul {
+            display: flex;
+            list-style-type: none;
+        }
+
+        .logo {
+            font-size: 45px;
+        }
+
+        .menuBox {
+            height: 100px;
+            line-height: 100px;
+        }
+
+            .menuBox ul li {
+                display: block;
+                padding: 0;
+                width: 150px;
+                border-radius: 10px;
+                background-color: chocolate;
+                margin: 0 15px;
+                padding: 15px;
+                font-size: 20px;
+                text-align: center;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-weight: bold;
+            }
+
+                .menuBox ul li:hover {
+                    background-color: aqua;
+                }
+
+                .menuBox ul li a {
+                    text-decoration: none;
+                    color: white;
+                }
+
+        section {
+            margin: 0 auto;
+            padding: 0;
+            height: 400px;
+            width: 80%;
+        }
+    </style>
+</head>
+
+    <!-- Header baslangici -->
+    <nav>
+        <div class="logo">
+            <h4>Wissen</h4>
+        </div>
+        <div class="menuBox">
+            <ul>
+                <li><a href="home">Anasayfa</a></li>
+                <li><a href="Hakkimda">Hakkımda</a></li>
+                <li><a href="Iletisim">İletişim</a></li>
+            </ul>
+        </div>
+    </nav>
+    <!-- Header bitis -->

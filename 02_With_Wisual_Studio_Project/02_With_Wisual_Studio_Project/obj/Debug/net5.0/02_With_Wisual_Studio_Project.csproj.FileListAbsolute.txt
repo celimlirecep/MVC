@@ -34,3 +34,4 @@ C:\Users\recep\OneDrive\Masaüstü\mvc\02_With_Wisual_Studio_Project\02_With_Wis
 C:\Users\recep\OneDrive\Masaüstü\mvc\02_With_Wisual_Studio_Project\02_With_Wisual_Studio_Project\obj\Debug\net5.0\02_With_Wisual_Studio_Project.csproj.CopyComplete
 C:\Users\recep\OneDrive\Masaüstü\mvc\02_With_Wisual_Studio_Project\02_With_Wisual_Studio_Project\obj\Debug\net5.0\Razor\Views\Home\Index2.cshtml.g.cs
 C:\Users\recep\OneDrive\Masaüstü\mvc\02_With_Wisual_Studio_Project\02_With_Wisual_Studio_Project\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\recep\OneDrive\Masaüstü\mvc\02_With_Wisual_Studio_Project\02_With_Wisual_Studio_Project\obj\Debug\net5.0\Razor\Views\Mikail\Index.cshtml.g.cs

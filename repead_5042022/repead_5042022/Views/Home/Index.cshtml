@@ -1,0 +1,24 @@
+﻿@*Yorum satırı HTML ve C# birleşik bir şekilde kullanmamızı sağlar *@
+
+@{
+
+    string kurumAd = "WisseN";
+    Console.WriteLine(kurumAd);
+    <h1 style="display:flex;justify-content:center;font-size:100px;font-family:'Bodoni MT'">@kurumAd</h1>
+    string[] adlar = { "Recep", "Aslı", "Mikail", "Alex", "Messi", "Ronaldo" };
+    string[] menü = { "Anasayfa", "Hakkımda", "Projeler", "İletişiim" };
+
+
+}
+
+<ul style="display:flex;justify-content:space-around;background-color:orangered;color:white;list-style-type:none;padding:10px">
+    @{
+
+        foreach (string ad in menü)
+        {
+            <li>@ad</li>
+
+        }
+
+    }
+</ul>
