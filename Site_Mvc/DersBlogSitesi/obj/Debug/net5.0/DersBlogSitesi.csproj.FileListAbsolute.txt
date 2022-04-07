@@ -34,3 +34,7 @@ C:\Users\recep\OneDrive\Masaüstü\mvc\Site_Mvc\DersBlogSitesi\obj\Debug\net5.0\
 C:\Users\recep\OneDrive\Masaüstü\mvc\Site_Mvc\DersBlogSitesi\obj\Debug\net5.0\DersBlogSitesi.Views.pdb
 C:\Users\recep\OneDrive\Masaüstü\mvc\Site_Mvc\DersBlogSitesi\obj\Debug\net5.0\DersBlogSitesi.csproj.CopyComplete
 C:\Users\recep\OneDrive\Masaüstü\mvc\Site_Mvc\DersBlogSitesi\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\recep\OneDrive\Masaüstü\mvc\Site_Mvc\DersBlogSitesi\obj\Debug\net5.0\Razor\Views\Hakkimizda\Index.cshtml.g.cs
+C:\Users\recep\OneDrive\Masaüstü\mvc\Site_Mvc\DersBlogSitesi\obj\Debug\net5.0\Razor\Views\Dersler\Index.cshtml.g.cs
+C:\Users\recep\OneDrive\Masaüstü\mvc\Site_Mvc\DersBlogSitesi\obj\Debug\net5.0\Razor\Views\MakaleIcerik\Index.cshtml.g.cs
+C:\Users\recep\OneDrive\Masaüstü\mvc\Site_Mvc\DersBlogSitesi\obj\Debug\net5.0\Razor\Views\Shared\_IcerikLayout.cshtml.g.cs

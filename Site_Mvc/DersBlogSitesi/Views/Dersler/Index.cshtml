@@ -1,0 +1,36 @@
+﻿@model List<DersBlogSitesi.Models.Lesson>
+
+<ul>
+
+    @{
+        <table class="table text-white caption-top bg-success w-50 mx-auto ">
+            <thead>
+                <tr>
+
+                    <th scope="col">ID</th>
+                    <th scope="col">Lesson Name</th>
+                    <th scope="col">Category</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (var lesson in Model)
+                    {
+                        <tr>
+
+                            <td>@lesson.ID</td>
+                            <td>@lesson.LessonName</td>
+                            <td>@lesson.Category</td>
+                        </tr>
+
+                    }
+                }
+            </tbody>
+        </table>
+
+
+
+    }
+
+</ul>
+
