@@ -1,0 +1,38 @@
+﻿@model List<MobilyaShowRoom.Models.Product>
+
+@{
+    Layout = "_Layout";
+    ViewBag.title = "Products";
+}
+
+
+
+<div class="d-flex row justify-content-lg-between  w-100 mx-auto bg-info">
+    @foreach (var product in Model)
+    {
+
+
+    <div class="col-4 my-3 d-flex justify-content-center " >
+        <div class="card  " style="width: 18rem; border:8px dashed blue">
+            <div class="card-body">
+                <h5 class="card-title" style="padding-left:100px;background-color:burlywood">@product.ID</h5>
+                <hr />
+                <h5 class="card-title">@product.ProductName</h5>
+                <hr />
+                <p class="card-text">@product.ProductDetail</p>
+                <hr />
+                <h2 class="text-danger" style="padding-left:80px">@product.Price$</h2>
+                <hr />
+                <a href="product/getproductdetail/@product.ID" class="nav-link text-success  border-3 rounded fs-1" style="padding-left:80px">Detay</a>
+            </div>
+        </div>
+    </div>
+       
+  
+
+
+
+
+}
+    </div>
+

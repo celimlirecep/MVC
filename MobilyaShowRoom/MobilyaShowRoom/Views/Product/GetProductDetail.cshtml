@@ -1,0 +1,26 @@
+﻿@{
+    Layout = "_Layout";
+
+}
+
+@{
+    MobilyaShowRoom.Models.Product product = ViewBag.Product;
+    ViewBag.title = product.ProductName;
+
+
+    <div class="d-flex justify-content-center w-100">
+        <div class="card rounded" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">@product.ProductName</h5>
+                <hr />
+                <p class="card-text">@product.ProductDetail</p>
+                <h2 class="text-danger">@product.Price$</h2>
+                <a href="@Url.ActionLink("index","product")" class="nav-link text-success  border-3 rounded fs-1">Back</a>
+            </div>
+        </div>
+    </div>
+
+
+  
+}
+
