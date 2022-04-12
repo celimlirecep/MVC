@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DilenComTr_clone", "DilenComTr_clone\DilenComTr_clone.csproj", "{D8386235-11EC-43AC-BF80-BFC4E31939D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8386235-11EC-43AC-BF80-BFC4E31939D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8386235-11EC-43AC-BF80-BFC4E31939D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8386235-11EC-43AC-BF80-BFC4E31939D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8386235-11EC-43AC-BF80-BFC4E31939D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {434C2048-C944-45B2-A800-4C57EE98CDC1}
+	EndGlobalSection
+EndGlobal
