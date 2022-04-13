@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\recep\\OneDrive\\Masaüstü\\WEB_Class_Projects\\Haber_sitesi\\mvc\\HaberSitesi\\HaberSitesi\\HaberSitesi.csproj",
+      "projectUniqueName": "C:\\Users\\recep\\OneDrive\\Masaüstü\\mvc\\HaberSitesi\\mvc\\HaberSitesi\\HaberSitesi\\HaberSitesi.csproj",
       "projectName": "HaberSitesi",
-      "projectPath": "C:\\Users\\recep\\OneDrive\\Masaüstü\\WEB_Class_Projects\\Haber_sitesi\\mvc\\HaberSitesi\\HaberSitesi\\HaberSitesi.csproj",
+      "projectPath": "C:\\Users\\recep\\OneDrive\\Masaüstü\\mvc\\HaberSitesi\\mvc\\HaberSitesi\\HaberSitesi\\HaberSitesi.csproj",
       "packagesPath": "C:\\Users\\recep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\recep\\OneDrive\\Masaüstü\\WEB_Class_Projects\\Haber_sitesi\\mvc\\HaberSitesi\\HaberSitesi\\obj\\",
+      "outputPath": "C:\\Users\\recep\\OneDrive\\Masaüstü\\mvc\\HaberSitesi\\mvc\\HaberSitesi\\HaberSitesi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\recep\\AppData\\Roaming\\NuGet\\NuGet.Config",

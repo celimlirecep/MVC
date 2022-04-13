@@ -1,4 +1,19 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿
+//$("document").ready(
 
-// Write your JavaScript code.
+//    $("#menu-btn").click((e) => {
+//        e.preventDefault();
+//        $(".nav-menu-icerik").toggle("slow");
+     
+//        console.log("burda")
+        
+//    })
+   
+
+//)
+    //Goster Function ı üst menü barının gösterilmesini sağlar
+   
+
+
+
+

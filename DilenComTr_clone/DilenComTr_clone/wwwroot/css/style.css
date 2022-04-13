@@ -11,11 +11,13 @@ body {
 .nav-content ul {
     list-style: none;
     border: 1px solid #e3e3e3;
+
 }
 
     .nav-content ul li {
         height: 100%;
         border-right: 1px solid #e3e3e3;
+
     }
 
         .nav-content ul li:hover a {
@@ -202,5 +204,36 @@ head {
 }
 
     .footer-text p {
-        color: white;
+        color:white;
+    }
+
+    #menu-btn{
+        display:none;
+    }
+  
+
+   
+
+    @media (max-width:768px){
+        nav div ul{
+            flex-direction:column;
+        }
+        nav{
+            display:none;
+            
+            
+        }
+        #menu-btn{
+            display:initial;
+        }
+        #menu-btn:checked +  nav{
+            color:yellow;
+            display:initial !important;
+        }
+       
+    }
+    @media(min-width:768px){
+        nav {
+            display: initial !important;
+        }
     }
